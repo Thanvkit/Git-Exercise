@@ -26,7 +26,7 @@ c) Update this README.md file:
 Name: Pariyakorn Silakorn / Email: pariyakorn.5209@gmail.com
 
 🖼️ 2. Picture
-![Quote Picture](Picture/Quote.png)
+![Quote Picture](Picture/Quote.jpg)
 
 🎞️ 3. Animation
 ![Git Animation](Animation/GITGIF.gif)
