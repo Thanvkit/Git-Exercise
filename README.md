@@ -23,7 +23,7 @@ c) Update this README.md file:
      Replace the example filenames and placeholders below with your actual information. Match the capitalization of directory and file names exactly.
 
 👤 1. Student Information
-Name: Pariyakorn Silakorm / Email: pariyakorn.5209@gmail.com
+Name: Pariyakorn Silakorn / Email: pariyakorn.5209@gmail.com
 
 🖼️ 2. Picture
 ![Quote Picture](Picture/Quote.png)
