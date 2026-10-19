@@ -29,6 +29,7 @@ Name: Pariyakorn Silakorn / Email: pariyakorn.5209@gmail.com
 Name: Thanakit Chansiri / Email: ninekickoff@gmail.com
 
 Name
+
 🖼️ 2. Picture
 
 ![Quote Picture](Picture/Quote.jpg)
