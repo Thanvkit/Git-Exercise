@@ -28,7 +28,8 @@ Name: Pariyakorn Silakorn / Email: pariyakorn.5209@gmail.com
 
 Name: Thanakit Chansiri / Email: ninekickoff@gmail.com
 
-Name
+Name: Nataporn Luksiri / Email:
+nataporn18092549@gmail.com
 
 🖼️ 2. Picture
 
